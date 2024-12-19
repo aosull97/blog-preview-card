@@ -8,7 +8,12 @@ module.exports = {
       'gray-500':'#6B6B6B',
       'white':'#FFFFFF'
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        'figtree': ['Figtree', 'serif'],
+      
+      },
+    },
   },
   plugins: [],
 }
