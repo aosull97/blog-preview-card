@@ -27,7 +27,7 @@ The challenge was to build a blog preview card and get it looking as close to th
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://aosull97.github.io/blog-preview-card/)
+- Live Site URL: [https://aosull97.github.io/blog-preview-card/]
 
 ## My process
 I first looked over the provided design brief to see what the finished product should look like. Then I added the basic structure with HTML, including any images that needed displaying. I then styled this with Tailwind CSS until it looked as close to the design as possible.
